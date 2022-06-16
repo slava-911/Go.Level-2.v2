@@ -8,5 +8,5 @@ import (
 )
 
 func printModulePath() {
-	fmt.Println("github.com/slava-911/Go.Level-2/lesson3/mymodule")
+	fmt.Println("github.com/slava-911/Go.Level-2.v2/lesson3/mymodule")
 }

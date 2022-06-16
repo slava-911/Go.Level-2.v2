@@ -1,4 +1,4 @@
-module github.com/slava-911/Go.Level-2/lesson3/mymodule
+module github.com/slava-911/Go.Level-2.v2/lesson3/mymodule
 
 go 1.18
 
