@@ -1,4 +1,4 @@
-module github.com/slava-911/Go.Level-2.v2/lesson3/mymodule
+module github.com/slava-911/Go.Level-2/lesson3/mymodule
 
 go 1.18
 
@@ -9,6 +9,6 @@ require (
 
 require (
 	github.com/andybalholm/brotli v1.0.4 // indirect
-	github.com/klauspost/compress v1.15.0 // indirect
+	github.com/klauspost/compress v1.15.6 // indirect
 	github.com/valyala/bytebufferpool v1.0.0 // indirect
 )
